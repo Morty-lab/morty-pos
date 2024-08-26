@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965296088139",
+    "project_id": "morty-pos",
+    "storage_bucket": "morty-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965296088139:android:0657ba66aa4dfb1e89d9ce",
+        "android_client_info": {
+          "package_name": "com.example.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArtxrFeAoek7jyNmUDKYdo1Ryv8LoUshY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
